@@ -1,4 +1,4 @@
-# LAB-PHP
+# PHP-LAB
 
 ## Projetos Práticos | Sistemas Desenvolvidos
 ### [Lista de Projetos Base/Ref.](#)
